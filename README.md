@@ -9,7 +9,7 @@ Admin users can clear template caches from within the `Settings` section of the 
 ## Installation
 
 1. Download this repo.
-2. Rename the folder to "cleartemplatecache"
+2. Rename the folder to `cleartemplatecache`
 3. Drag into your `/craft/plugins` folder.
 4. Install via the Craft Control Panel.
 5. Click `New Widget` on your Dashboard to add the widget.
