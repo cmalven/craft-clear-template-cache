@@ -1,0 +1,14 @@
+{% includeJsResource "/cleartemplatecache/js/clearwidget.js" %}
+
+<form action="" method="POST" accept-charset="UTF-8">
+    <input type="hidden" name="clear-action" value="/clearTemplateCache/clear">
+    {{ getCsrfInput() }}
+
+    <p>Clicking the button below will clear the template cache for all pages.</p>
+
+    <p><em>Note: Using this button should rarely be neccessary. Only use when changes to the site take more than several minutes to appear.</em></p>
+
+    <div class="buttons">
+        <input type="submit" class="btn submit perform-clear" value="Clear Template Caches">
+    </div>
+</form>
