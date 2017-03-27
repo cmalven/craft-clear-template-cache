@@ -1,4 +1,4 @@
-# Craft Clear Template Caches
+# Craft Clear Template Cache
 
 Craft plugin to add a "Clear Template Caches" widget for the Dashboard.
 
