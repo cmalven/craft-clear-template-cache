@@ -8,3 +8,4 @@ Craft plugin to add a "Clear Template Caches" widget for the Dashboard.
 2. Rename the folder to "cleartemplatecache"
 3. Drag into your `/craft/plugins` folder.
 4. Install via the Craft Control Panel.
+5. Click `New Widget` on your Dashboard to add the widget.
